@@ -8,7 +8,8 @@ export default function Contact() {
           Contact
         </h2>
 
-        <div className="bg-gray-800 border border-gray-700 p-8 sm:p-12">
+        <div className="bg-gray-800 border border-gray-700 p-8 sm:p-12 max-w-full overflow-hidden">
+
           <Mail className="w-12 h-12 text-white mx-auto mb-6" />
 
           <a
